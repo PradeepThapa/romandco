@@ -63,7 +63,7 @@
         "url": "https://fonts.googleapis.com/css?family=Playfair+Display+SC:400,400i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 51,
+    "uniqCompNum": 63,
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -75,8 +75,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Rom & Co",
+        "meta_descr": "Rom & Co is small and unique cafe located in Whitfords Shopping Centre. It is popular place for weekdays and weekend breakfast and lunch. We offer a great range of specialty coffee drinks as well as breakfast and lunch dishes like sandwiches and salads. We  also offer a good choice of gluten free and dairy free produce with vegan options. In addition, we also have a healthy range options.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
