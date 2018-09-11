@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Rom &amp; Co",
+    "name": "Rom & Co",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -67,9 +67,15 @@
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
-    "siteUrl": "",
-    "sitemapSwitcherAuto": "on"
+    "robotsSwitcher": "on",
+    "siteUrl": "https://romandco.com.au",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
