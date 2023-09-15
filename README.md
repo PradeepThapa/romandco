@@ -1,2 +1,2 @@
 # romandco
-GitHub Pages
+Website for Rom&Co developed by Pradeep Thapa
